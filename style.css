@@ -1,0 +1,30 @@
+.space {
+  background-image: url(https://t4.ftcdn.net/jpg/02/15/94/83/360_F_215948377_kgIhNUy4X0iYsyUfYd9KKIViSPOxclbC.jpg);
+  
+} 
+
+.home {
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav {
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav-link {
+  color:white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-size: xx-large;
+}
+

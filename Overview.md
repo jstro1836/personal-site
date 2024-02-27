@@ -17,5 +17,5 @@ The about page is where visitors will get to learn about my background, interest
 ## Portfolio Page
 This page will communicate to potential employers the value I can bring to their teams and company. This page will contain details on three key projects I've led and delivered throughout my career:
 * Project Secure and Defend: This is a program I managed while serving in the Active U.S. Army as a Counterintelligence Officer
-* Voice of Customer Program: I ran a program that generated insights from B2B customes leading to improvements with our products and services. 
+* Voice of Customer Program: I ran a program that generated insights from B2B customers leading to improvements with our products and services. 
 * Project Starlight Genesis: I have a small side business and currently working on a web3 project. 
