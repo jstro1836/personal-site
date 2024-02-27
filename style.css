@@ -1,6 +1,5 @@
 .space {
-  background-image: url(https://t4.ftcdn.net/jpg/02/15/94/83/360_F_215948377_kgIhNUy4X0iYsyUfYd9KKIViSPOxclbC.jpg);
-  
+  background-image: url(https://t4.ftcdn.net/jpg/02/15/94/83/360_F_215948377_kgIhNUy4X0iYsyUfYd9KKIViSPOxclbC.jpg); 
 } 
 
 .home {
@@ -28,3 +27,23 @@ h1 {
   font-size: xx-large;
 }
 
+.quote {
+  color: white;
+  text-align: center;
+}
+
+.interests {
+  color: white;
+  padding: 20px;
+}
+
+main {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+h2 {
+  text-align: center;
+  font-size: x-large;
+}
